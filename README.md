@@ -18,11 +18,24 @@ ThreadHUS is a modern social media application inspired by platforms like Twitte
 - **Engagement Analytics:** Real-time insights into user engagement and trending topics.
 - **Optimal Posting Times:** Recommendations on the best times to post for maximum engagement.
 
+---
+
+## Screenshots
+
+| Home Page | Login Page |
+|-----------|------------|
+| ![](./ScreenShot/homepage.png) | ![](./ScreenShot/login.png) |
+
+| Thread Overview | Smart Replies |
+|------------------|----------------|
+| ![](./ScreenShot/homepage_overview.png) | ![](./ScreenShot/suggest_replies.png) |
+
 ## Technologies Used
 - **Frontend & Backend:** Next.js with TypeScript
 - **Authentication & Database:** Supabase (PostgreSQL + Auth)
 - **Styling:** Tailwind CSS for modern responsive UI
 - **Real-time updates:** Supabase real-time subscriptions
+
 
 ## Design Highlights
 - Clean, minimalist interface inspired by modern social platforms
